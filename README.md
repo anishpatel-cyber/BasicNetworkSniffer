@@ -37,15 +37,7 @@ CodeAlpha_BasicNetworkSniffer/
     └── sample_log.txt
 ```
 
-## Installation
 
-Install dependency:
-
-pip install scapy
-
-Run project:
-
-python3 sniffer_gui.py
 ## Installation
 
 Install dependency:
